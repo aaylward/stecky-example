@@ -1,6 +1,6 @@
 package com.andy.steckyexample.config;
 
-import com.andy.steckyexample.GameManager;
+import com.andy.steckyexample.game.GameManager;
 import com.google.inject.Binder;
 import com.google.inject.Module;
 import com.muchq.json.ObjectMapperModule;

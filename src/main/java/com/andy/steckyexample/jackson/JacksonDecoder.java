@@ -1,4 +1,4 @@
-package com.andy.steckyexample.game;
+package com.andy.steckyexample.jackson;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.muchq.json.JsonUtils;

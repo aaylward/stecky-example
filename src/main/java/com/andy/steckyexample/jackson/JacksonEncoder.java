@@ -1,5 +1,6 @@
-package com.andy.steckyexample.game;
+package com.andy.steckyexample.jackson;
 
+import com.andy.steckyexample.game.ServerMessage;
 import com.muchq.json.JsonUtils;
 
 import javax.websocket.Encoder;

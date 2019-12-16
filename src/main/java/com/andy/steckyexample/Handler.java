@@ -1,7 +1,8 @@
 package com.andy.steckyexample;
 
-import com.andy.steckyexample.game.JacksonDecoder;
-import com.andy.steckyexample.game.JacksonEncoder;
+import com.andy.steckyexample.game.GameManager;
+import com.andy.steckyexample.jackson.JacksonDecoder;
+import com.andy.steckyexample.jackson.JacksonEncoder;
 import com.andy.steckyexample.game.ServerMessage;
 import com.fasterxml.jackson.databind.JsonNode;
 
